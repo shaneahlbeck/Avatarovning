@@ -1,1 +1,1 @@
-hej
+let varukorg = []
